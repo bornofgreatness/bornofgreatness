@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto">
 <p class="heading-element" dir="auto">
-Senior Full Stack Engineer with 9+ years of experience building scalable web, AI, blockchain, and enterprise software solutions across international teams in Canada, Hong Kong, and China. Strong background in modern JavaScript ecosystems, cloud-native architectures, AI/ML integrations, and decentralized applications. Proven ability to lead end-to-end product development, optimize system performance, and deliver enterprise-grade applications in fast-paced remote environments.
+Results-oriented Senior Software Engineer with 9+ years of experience delivering scalable AI-driven applications, cloud-native platforms, enterprise web systems, and blockchain solutions. Proven expertise across full-stack development, AI integration, backend architecture, DevOps automation, and distributed systems. Strong technical background in Python, TypeScript, React, Node.js, AWS, Kubernetes, Docker, PostgreSQL, and Generative AI technologies. Experienced collaborating with global engineering teams in fast-paced international environments.
 </p>
 
 <markdown-accessiblity-table data-catalyst=""><table>
