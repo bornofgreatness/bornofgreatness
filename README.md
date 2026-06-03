@@ -2,7 +2,7 @@
 
 **Fully remote only** — open to worldwide, async-friendly teams. No hybrid or on-site roles.
 
-Senior software engineer with 12+ years building production AI platforms, full-stack SaaS, and distributed systems. Experience spans enterprise LLM products, agent workflows, Web3, and high-traffic web applications in fully remote, global teams.
+Senior software engineer with **10+ years** building production AI platforms, full-stack SaaS, and distributed systems. Experience spans enterprise LLM products, agent workflows, Web3, and high-traffic web applications in fully remote, global teams.
 
 ---
 
@@ -31,20 +31,18 @@ Senior software engineer with 12+ years building production AI platforms, full-s
 
 ## Tech skills
 
-**Languages:** Python · TypeScript · JavaScript · Rust · Solidity · Go
-
-**Frontend:** React · Next.js · HTML · CSS · Tailwind CSS
-
-**Backend:** Node.js · FastAPI · Express · NestJS · REST APIs · GraphQL · Webhooks
-
-**AI / ML:** LLMs · RAG · LangChain · Agents · Semantic search · VLM
-
-**Data:** PostgreSQL · MongoDB · Redis · MySQL · Elasticsearch
-
-**Web3:** Solidity · Hardhat · ethers.js · Smart contracts · DeFi · IPFS
-
-**Cloud & infra:** AWS · GCP · Azure · Docker · Kubernetes · Terraform · Linux
-
-**DevOps & tools:** Git · GitHub Actions · CI/CD · Prometheus · Grafana · Kafka · Nginx
-
-**Practices:** Distributed systems · Idempotent APIs · Observability · Production reliability · Async remote delivery
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,nestjs,java,spring,python,django,flask,fastapi,go,rust&theme=light" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra,dynamodb,firebase,redis,sqlite,prometheus,solidity,ipfs&theme=light" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,vue,graphql,html,css,sass,tailwind,materialui&theme=light" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,vim,vscode,idea,git,github,gitlab,nginx,kafka,rabbitmq,bootstrap&theme=light" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,cloudflare,jenkins,docker,kubernetes,grafana,terraform,figma&theme=light" />
+</p>
