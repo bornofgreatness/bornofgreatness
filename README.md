@@ -19,16 +19,6 @@ Senior software engineer with **10+ years** building production AI platforms, fu
 
 ---
 
-## GitHub achievements
-
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="64" height="64" alt="Pull Shark" title="Pull Shark: Merged pull requests" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" height="64" alt="Quickdraw" title="Quickdraw: Closed issues and PRs within 5 minutes" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="64" height="64" alt="YOLO" title="YOLO: Merged a pull request without review" />
-</p>
-
----
-
 ## Featured work
 
 - 🎙️ [**voice-receptionist-demo**](https://github.com/bornofgreatness/voice-receptionist-demo) — FastAPI + LLM agent demo (appointment booking, webhooks)
