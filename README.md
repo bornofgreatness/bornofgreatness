@@ -21,13 +21,40 @@ Senior software engineer with **10+ years** building production AI platforms, fu
 
 ## Achievements
 
-- **10+ years** shipping production software in fully remote, async-first teams across global time zones
-- Delivered **enterprise LLM, RAG, and agent** features for multi-tenant AI platforms at scale
-- Built **Web3 / DeFi** products — Solidity smart contracts, wallet flows, staking, and RWA portal on BNB Chain
-- Shipped **high-traffic marketplace** and **B2B SaaS** backends with webhooks, integrations, and production observability
-- Implemented **Rust** game server with state-machine rounds, concurrent bets, and money-correct gameplay under race conditions
-- Shipped **idempotent APIs** and reconciliation patterns for transaction-heavy, distributed-state systems
-- Published open-source **AI demos** — voice receptionist, multi-agent orchestration, workflow agents, and VLM lab
+<table>
+  <tr>
+    <td align="center" width="72">
+      <div style="position: relative; display: inline-block; width: 64px; height: 64px;">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="64" height="64" alt="Pull Shark" title="Pull Shark: Merged pull requests" />
+        <span style="position: absolute; right: -2px; bottom: -2px; background: #656d76; color: #ffffff; font-size: 11px; font-weight: 600; line-height: 1; padding: 2px 5px; border-radius: 10px;">x3</span>
+      </div>
+    </td>
+    <td align="center" width="72">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" height="64" alt="Quickdraw" title="Quickdraw: Closed issues and PRs within 5 minutes" />
+    </td>
+    <td align="center" width="72">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="64" height="64" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored merged pull requests" />
+    </td>
+    <td align="center" width="72">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="64" height="64" alt="Galaxy Brain" title="Galaxy Brain: Answered discussions" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="72">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="64" height="64" alt="YOLO" title="YOLO: Merged a pull request without review" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Organizations
+
+<p align="left">
+  <a href="https://github.com/Arize-ai"><img src="https://avatars.githubusercontent.com/u/59858760?v=4&s=64" width="32" height="32" alt="Arize-ai" style="border-radius: 6px; margin-right: 4px;" /></a>
+  <a href="https://github.com/ccxt"><img src="https://avatars.githubusercontent.com/u/31901609?v=4&s=64" width="32" height="32" alt="ccxt" style="border-radius: 6px; margin-right: 4px;" /></a>
+  <a href="https://github.com/sunrise-stake"><img src="https://avatars.githubusercontent.com/u/119878826?v=4&s=64" width="32" height="32" alt="sunrise-stake" style="border-radius: 6px;" /></a>
+</p>
 
 ---
 
